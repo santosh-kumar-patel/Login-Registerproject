@@ -1,0 +1,11 @@
+E:\net developer\C#\TCS_Employee\TCS_Employee\bin\Debug\TCS_Employee.exe
+E:\net developer\C#\TCS_Employee\TCS_Employee\bin\Debug\TCS_Employee.pdb
+E:\net developer\C#\TCS_Employee\TCS_Employee\obj\x86\Debug\TCS_Employee.Form1.resources
+E:\net developer\C#\TCS_Employee\TCS_Employee\obj\x86\Debug\TCS_Employee.Properties.Resources.resources
+E:\net developer\C#\TCS_Employee\TCS_Employee\obj\x86\Debug\TCS_Employee.csproj.GenerateResource.Cache
+E:\net developer\C#\TCS_Employee\TCS_Employee\obj\x86\Debug\TCS_Employee.exe
+E:\net developer\C#\TCS_Employee\TCS_Employee\obj\x86\Debug\TCS_Employee.pdb
+E:\net developer\C#\TCS_Employee\TCS_Employee\obj\x86\Debug\TCS_Employee.Form2.resources
+E:\net developer\C#\TCS_Employee\TCS_Employee\obj\x86\Debug\TCS_Employee.csprojResolveAssemblyReference.cache
+E:\net developer\C#\TCS_Employee\TCS_Employee\obj\x86\Debug\TCS_Employee.Form3.resources
+E:\net developer\C#\TCS_Employee\TCS_Employee\obj\x86\Debug\TCS_Employee.Form4.resources
